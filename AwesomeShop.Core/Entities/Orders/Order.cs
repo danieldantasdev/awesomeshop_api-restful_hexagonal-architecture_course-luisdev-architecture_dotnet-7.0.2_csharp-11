@@ -1,6 +1,6 @@
-﻿using AwesomeShop.Core.Enums;
+﻿using AwesomeShop.Core.Enums.Orders;
 
-namespace AwesomeShop.Core.Entities;
+namespace AwesomeShop.Core.Entities.Orders;
 
 public class Order
 {

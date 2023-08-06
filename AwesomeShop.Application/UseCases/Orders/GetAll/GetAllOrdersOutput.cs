@@ -1,4 +1,5 @@
 ﻿using AwesomeShop.Core.Entities;
+using AwesomeShop.Core.Entities.Orders;
 
 namespace AwesomeShop.Application.UseCases.Orders.GetAll;
 

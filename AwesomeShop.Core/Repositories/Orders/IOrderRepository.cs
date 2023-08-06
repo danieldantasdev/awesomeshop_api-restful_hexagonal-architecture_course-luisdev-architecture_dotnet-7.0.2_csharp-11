@@ -1,6 +1,6 @@
-﻿using AwesomeShop.Core.Entities;
+﻿using AwesomeShop.Core.Entities.Orders;
 
-namespace AwesomeShop.Core.Repositories;
+namespace AwesomeShop.Core.Repositories.Orders;
 
 public interface IOrderRepository
 {

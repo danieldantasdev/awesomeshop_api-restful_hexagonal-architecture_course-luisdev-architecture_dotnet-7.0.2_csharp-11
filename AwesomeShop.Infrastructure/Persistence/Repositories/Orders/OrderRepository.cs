@@ -1,7 +1,7 @@
-﻿using AwesomeShop.Core.Entities;
-using AwesomeShop.Core.Repositories;
+﻿using AwesomeShop.Core.Entities.Orders;
+using AwesomeShop.Core.Repositories.Orders;
 
-namespace AwesomeShop.Infrastructure.Persistence.Repositories;
+namespace AwesomeShop.Infrastructure.Persistence.Repositories.Orders;
 
 public class OrderRepository : IOrderRepository
 {
