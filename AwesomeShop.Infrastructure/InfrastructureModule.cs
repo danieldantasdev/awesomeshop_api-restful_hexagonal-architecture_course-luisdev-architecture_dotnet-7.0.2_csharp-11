@@ -1,5 +1,7 @@
 ﻿using AwesomeShop.Core.Repositories;
+using AwesomeShop.Core.Repositories.Orders;
 using AwesomeShop.Infrastructure.Persistence.Repositories;
+using AwesomeShop.Infrastructure.Persistence.Repositories.Orders;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace AwesomeShop.Infrastructure;

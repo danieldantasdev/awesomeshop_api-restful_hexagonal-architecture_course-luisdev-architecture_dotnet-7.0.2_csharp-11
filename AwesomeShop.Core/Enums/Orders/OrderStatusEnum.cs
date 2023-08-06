@@ -1,4 +1,4 @@
-﻿namespace AwesomeShop.Core.Enums;
+﻿namespace AwesomeShop.Core.Enums.Orders;
 
 public enum OrderStatusEnum
 {

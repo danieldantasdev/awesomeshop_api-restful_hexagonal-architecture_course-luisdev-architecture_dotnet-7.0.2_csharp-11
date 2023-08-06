@@ -1,4 +1,4 @@
-﻿namespace AwesomeShop.Core.Entities;
+﻿namespace AwesomeShop.Core.Entities.Orders;
 
 public class OrderItem
 {
